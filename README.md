@@ -6,7 +6,7 @@
 ## 📍 버전
 
 - JDK 17.0.4
-- org.springframework.boot' version '3.0.6'
+- org.springframework.boot' version '3.0.6'1
 
 
 
